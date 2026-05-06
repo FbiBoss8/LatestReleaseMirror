@@ -17,3 +17,5 @@ KaringX/karing|\.dmg|\.exe
 
 # 5. Disable a line by commenting it with #
 # masterking32/MasterDnsVPN|Client_MacOS_AMD64.zip|Client_Windows_AMD64.zip
+
+https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/download/v1.9.10|mhrv-rs-windows-amd64.zip
